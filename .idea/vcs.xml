@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project (2)/muli_service_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project (2)/muli_service_project/course-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project/course-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project/muli_service_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/muli_service_project/muli_service_project/course-service" vcs="Git" />
+  </component>
+</project>
