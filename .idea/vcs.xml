@@ -8,5 +8,6 @@
     <mapping directory="$PROJECT_DIR$/muli_service_project/course-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/muli_service_project/muli_service_project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/muli_service_project/muli_service_project/course-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/updated-user-service" vcs="Git" />
   </component>
 </project>
